@@ -13,10 +13,23 @@
 
 - ⚡ Fun fact **I am Forward-Thinking**
 
-  ##Education
-  -Bachelor of Science in Computer Science
-  ##Certification
-  [Certificates] (https://drive.google.com/drive/folders/1UQl4QAP7mWyulBr197pIn721QrsaLKhF?usp=sharing)
+  ## Education
+  - Bachelor of Science in Computer Science
+  
+  ## Certification
+  - [Oracle Cloud Infrastructure ](https://drive.google.com/file/d/1duNthxYxTktj4uRUDdOy2AIEDZxZibFe/view?usp=sharing)
+  - [Oracle Cloud Data Management ](https://drive.google.com/file/d/1SUGBpBSkCUqJApzEbcg6QpIP1xTsyj4T/view?usp=sharing)
+  - [SQL and Relational Databases 101](https://drive.google.com/file/d/12sVH1rTWE7xHWT6itAVK7x0aYYC4GFmw/view?usp=sharing)
+  - [Artificial Intelligence](https://drive.google.com/file/d/1GSnoUj0maUSsfcoqqeRS6ZWE3WEZJ6aO/view?usp=sharing)
+  - [Introduction to Data Visualization](https://drive.google.com/file/d/1hDMg_IakbFtN_hUXHP6cUV6d1YeOP4ry/view?usp=sharing)
+  - [ChatGPT](https://drive.google.com/file/d/14E7DiH11KA1ADz-sN2cAR4aEunNZ4pMc/view?usp=sharing)
+  - [CyberSecurity](https://drive.google.com/file/d/1-U__dnoNghP8WoYTaCszo36Iz9iSfVei/view?usp=sharing)
+  - [Profitable Developer](https://drive.google.com/file/d/1E3bCmW6udxAtZtLE0GjZBS0e0W1KpuRk/view?usp=sharing)
+  - [Technopreneurship](https://drive.google.com/file/d/1aSW_Hg1bQxhOQ6SV7b47f0ZpZVgOe8qX/view?usp=sharing)
+  - [Trends in Information Technology](https://drive.google.com/file/d/1-Cv3fLgCAEBvSxV8_-ope1NOAXa0YIo_/view?usp=sharing)
+  - [Basic Written Communication](https://drive.google.com/file/d/1kNQ2wIi4N0DfsujALqBXcpygA4Q4itve/view?usp=sharing)
+  - [Ubuntu Fundamentals](https://drive.google.com/file/d/1lqWISOuHVVktDxewXj32LVh_9-1bCdzC/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

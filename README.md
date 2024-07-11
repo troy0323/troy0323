@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Troy Victor Pardillo</h1>
 <h3 align="center">Computer Science student at New Era University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=troy0323&label=Profile%20views&color=0e75b6&style=flat" alt="troy0323" /> </p>
 
-- 🌱 I’m currently learning **C, html**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/neu.edu.ph/troypardillo/home](https://sites.google.com/neu.edu.ph/troypardillo/home)
 
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me:
 - **troypardillo20@gmail.com**

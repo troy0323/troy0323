@@ -10,7 +10,7 @@
 - **09677445447**
 
 
-- ⚡ You can check my website fore more: **[My Website](https://myprofile.ph/troyvictorpardillo)**
+- ⚡ You can check my website for more: **[My Website](https://myprofile.ph/troyvictorpardillo)**
 
   ## 🎓Education
   - **New Era University - Main Branch**

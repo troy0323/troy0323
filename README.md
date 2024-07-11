@@ -13,10 +13,11 @@
 - ⚡ Fun fact **I am Forward-Thinking**
 
   ## 🎓Education
+  - **New Era University - Main Branch**
   - Bachelor of Science in Computer Science
   - Years Attended: 2021 - Present
 
-  ##Certificates
+  ## Certificates
   - [FCA - Fortigate Operator](https://drive.google.com/file/d/17tSq40W9gE5Ie6sT-c-LLCALaab7oM_F/view?usp=sharing)
   - [FCF - Technical Introduction to Cybersecurity](https://drive.google.com/file/d/1HyepBimTZaQ3p8wv17x4f2DACttUajKA/view?usp=sharing)
   - [Fortinet Certified Associate in Cybersecurity](https://drive.google.com/file/d/1GcXXNbSY44hAGJIhZ5C77R9IbrYJ6Aaf/view?usp=sharing)

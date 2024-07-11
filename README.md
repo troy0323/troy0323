@@ -10,7 +10,8 @@
 - **09677445447**
 
 
-- ⚡ Fun fact **I am Forward-Thinking**
+- ⚡ You can check my website fore more:
+-  **[My Website](https://myprofile.ph/troyvictorpardillo)**
 
   ## 🎓Education
   - **New Era University - Main Branch**
@@ -54,6 +55,19 @@
   </a>
 </p>
 
+
+
+## Tech Achievement
+- **Power BI Projects**
+- [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiNTJhNTA4YmEtNGRjNS00NTFlLWFiZTQtOGM0ZTZmMTM4NWRkIiwidCI6ImU2MTE2MTEwLWNlMzQtNDkzZC1iYTMxLWE3NTk0M2E3NTA0YyIsImMiOjEwfQ%3D%3D)
+- [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiOWRjZGI0ZTktNjhlZi00ZGM0LTkzZDEtNDZiYTA0Y2UwM2IzIiwidCI6ImU2MTE2MTEwLWNlMzQtNDkzZC1iYTMxLWE3NTk0M2E3NTA0YyIsImMiOjEwfQ%3D%3D)
+- []()
+- **Software Engineering Design Pattern Repositories**
+- [Builder Pattern](https://github.com/troy0323/BuilderPattern.git)
+- [State Pattern](https://github.com/troy0323/StatePattern.git)
+- [Visitor Pattern](https://github.com/troy0323/VisitorPattern.git)
+- [Decorator Pattern](https://github.com/troy0323/DecoratorPattern.git)
+- [Facade Pattern](https://github.com/troy0323/FacadePattern.git)
 
 
 # Skill Set

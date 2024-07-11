@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Troy Victor Pardillo</h1>
-<h3 align="center">Computer Science student at New Era University</h3>
+<h3 align="center">Computer Science Student at New Era University</h3>
 
 
 

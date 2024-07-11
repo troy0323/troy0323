@@ -9,7 +9,12 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **troypardillo20@gmail.com**
+- 📫 How to reach me:
+- **troypardillo20@gmail.com**
+- **https://myprofile.ph/troyvictorpardillo**
+- **https://www.linkedin.com/in/troy-pardillo-65a0a3309/**
+- **09677445447**
+
 
 - ⚡ Fun fact **I am Forward-Thinking**
 

@@ -91,14 +91,14 @@
 ## DBMS
 <p align="left"> 
   <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64,..." alt="DB2" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/25609129/125168728-16f29a80-e1b8-11eb-9b18-b0d4b5684b75.png" alt="DB2" width="40" height="40"/> 
   </a> 
 </p>
 
 ## Dev Tools
 <p align="left"> 
   <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64,..." alt="Lucidchart" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/25609129/125168740-28d43d80-e1b8-11eb-91cf-6e4f291b8140.png" alt="Lucidchart" width="40" height="40"/> 
   </a> 
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1024px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="40" height="40"/> 
@@ -107,9 +107,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
   <a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho.html" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64,..." alt="Pentaho" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/25609129/125168748-35f12c80-e1b8-11eb-80b3-727d0ecb1e2f.png" alt="Pentaho" width="40" height="40"/> 
   </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="data:image/png;base64,..." alt="Android Studio" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/25609129/125168756-41dcee80-e1b8-11eb-98ff-7b6488d4cf54.png" alt="Android Studio" width="40" height="40"/> 
   </a> 
 </p>
+

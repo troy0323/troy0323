@@ -9,6 +9,15 @@
 - **troypardillo20@gmail.com**
 - **09677445447**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://fb.com/troyxcz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="troyxcz" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/troy-pardillo-65a0a3309/details/certifications/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="troy-pardillo" height="30" width="40" />
+  </a>
+</p>
 
 - ⚡ You can check my website for more: **[My Website](https://myprofile.ph/troyvictorpardillo)**
 
@@ -44,19 +53,10 @@
   - [Ubuntu Fundamentals](https://drive.google.com/file/d/1lqWISOuHVVktDxewXj32LVh_9-1bCdzC/view?usp=sharing)
   
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/troyxcz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="troyxcz" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/troy-pardillo-65a0a3309/details/certifications/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="troy-pardillo" height="30" width="40" />
-  </a>
-</p>
 
 
 
-## Tech Achievement
+# Tech Achievement
 - **Power BI Projects**
 - [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiNTJhNTA4YmEtNGRjNS00NTFlLWFiZTQtOGM0ZTZmMTM4NWRkIiwidCI6ImU2MTE2MTEwLWNlMzQtNDkzZC1iYTMxLWE3NTk0M2E3NTA0YyIsImMiOjEwfQ%3D%3D)
 - [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiOWRjZGI0ZTktNjhlZi00ZGM0LTkzZDEtNDZiYTA0Y2UwM2IzIiwidCI6ImU2MTE2MTEwLWNlMzQtNDkzZC1iYTMxLWE3NTk0M2E3NTA0YyIsImMiOjEwfQ%3D%3D)

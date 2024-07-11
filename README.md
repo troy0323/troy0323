@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am Forward-Thinking**
 
-  ## Education
+  ## 🎓Education
   - Bachelor of Science in Computer Science
   
   ## Certification

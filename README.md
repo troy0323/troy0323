@@ -5,7 +5,7 @@
 
 
 
-- 📫 How to reach me:
+ 📫 How to reach me:
 - **troypardillo20@gmail.com**
 - **09677445447**
 

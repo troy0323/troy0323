@@ -1,3 +1,4 @@
+![Header Image](![image](https://github.com/troy0323/troy0323/assets/90951302/114a7ce3-fff2-40af-ac78-efc834527a5f)
 <h1 align="center">Hi 👋, I'm Troy Victor Pardillo</h1>
 <h3 align="center">Computer Science student at New Era University</h3>
 

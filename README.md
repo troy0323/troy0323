@@ -91,17 +91,14 @@
 ## DBMS
 <p align="left"> 
   <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/IBM_DB2_logo.svg" alt="DB2" width="40" height="40"/> 
+    <img src="data:image/png;base64,..." alt="DB2" width="40" height="40"/> 
   </a> 
 </p>
 
 ## Dev Tools
 <p align="left"> 
-  <a href="https://community.jaspersoft.com/project/jaspersoft-studio" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JasperReports_logo.png/1024px-JasperReports_logo.png" alt="JasperSoft Studio" width="40" height="40"/> 
-  </a> 
   <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Lucidchart_logo.png/800px-Lucidchart_logo.png" alt="Lucidchart" width="40" height="40"/> 
+    <img src="data:image/png;base64,..." alt="Lucidchart" width="40" height="40"/> 
   </a> 
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1024px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="40" height="40"/> 
@@ -110,15 +107,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
   <a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hitachi_logo.svg/2560px-Hitachi_logo.svg.png" alt="Pentaho" width="40" height="40"/> 
+    <img src="data:image/png;base64,..." alt="Pentaho" width="40" height="40"/> 
   </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1024px-Android_Studio_icon.svg.png" alt="Android Studio" width="40" height="40"/> 
+    <img src="data:image/png;base64,..." alt="Android Studio" width="40" height="40"/> 
   </a> 
 </p>
-
-
-
-  
-
-

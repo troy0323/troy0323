@@ -62,10 +62,10 @@
 ## Data Visualization Tools
 <p align="left"> 
   <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Desktop.svg" alt="PowerBI" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> 
   </a> 
   <a href="https://public.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau Public" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -98,7 +98,7 @@
 ## Dev Tools
 <p align="left"> 
   <a href="https://community.jaspersoft.com/project/jaspersoft-studio" target="_blank" rel="noreferrer"> 
-    <img src="https://community.jaspersoft.com/sites/default/files/jaspersoft_studio_logo.png" alt="JasperSoft Studio" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/awesome-inc/jasperreports/master/icon.png" alt="JasperSoft Studio" width="40" height="40"/> 
   </a> 
   <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lucidchart/lucidchart-original.svg" alt="Lucidchart" width="40" height="40"/> 
@@ -110,12 +110,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
   <a href="https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.hitachivantara.com/en-us/images/logo.png" alt="Pentaho" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pentaho.png" alt="Pentaho" width="40" height="40"/> 
   </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" width="40" height="40"/> 
   </a> 
 </p>
+
 
   
 

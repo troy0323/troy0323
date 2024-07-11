@@ -1,4 +1,5 @@
-![image](https://github.com/troy0323/troy0323/assets/90951302/c606c0b4-1af6-4060-a7dd-93f4c252d055)
+![image](https://github.com/troy0323/troy0323/assets/90951302/a4ab53d5-2c16-4a95-8650-68f930276297)
+
 
 <h1 align="center">Hi 👋, I'm Troy Victor Pardillo</h1>
 <h3 align="center">Computer Science student at New Era University</h3>

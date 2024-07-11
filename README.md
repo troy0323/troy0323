@@ -91,14 +91,14 @@
 ## DBMS
 <p align="left"> 
   <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25609129/125168728-16f29a80-e1b8-11eb-9b18-b0d4b5684b75.png" alt="DB2" width="40" height="40"/> 
+    <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2" width="40" height="40"/> 
   </a> 
 </p>
 
 ## Dev Tools
 <p align="left"> 
   <a href="https://www.lucidchart.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25609129/125168740-28d43d80-e1b8-11eb-91cf-6e4f291b8140.png" alt="Lucidchart" width="40" height="40"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7b9P_feX1yThfg-k6-N0TyGHKMa5a7YusA&s" alt="Lucidchart" width="40" height="40"/> 
   </a> 
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/1024px-Eclipse-Luna-Logo.svg.png" alt="Eclipse" width="40" height="40"/> 
@@ -110,5 +110,6 @@
     <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40"/> 
   </a> 
 </p>
+
 
 

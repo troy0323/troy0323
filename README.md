@@ -107,7 +107,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" width="40" height="40"/> 
   </a> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25609129/125168756-41dcee80-e1b8-11eb-98ff-7b6488d4cf54.png" alt="Android Studio" width="40" height="40"/> 
+    <img src="https://pbs.twimg.com/media/FwMqYA-WIA0E6Rw.jpg:large" alt="Android Studio" width="40" height="40"/> 
   </a> 
 </p>
 

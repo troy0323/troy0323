@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I am Forward-Thinking**
 
-  ## 🎓Education
+  # 🎓Education
   - Bachelor of Science in Computer Science
 
   ##Certificates
@@ -31,9 +31,6 @@
   - [SQL and Relational Database](https://drive.google.com/file/d/12sVH1rTWE7xHWT6itAVK7x0aYYC4GFmw/view?usp=sharing)
   
   ## Webinar and Seminars Attended:
-  - []()
-  - []()
-  - []()
   - [Artificial Intelligence](https://drive.google.com/file/d/1GSnoUj0maUSsfcoqqeRS6ZWE3WEZJ6aO/view?usp=sharing)
   - [Introduction to Data Visualization](https://drive.google.com/file/d/1hDMg_IakbFtN_hUXHP6cUV6d1YeOP4ry/view?usp=sharing)
   - [ChatGPT](https://drive.google.com/file/d/14E7DiH11KA1ADz-sN2cAR4aEunNZ4pMc/view?usp=sharing)

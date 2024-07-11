@@ -16,19 +16,19 @@
   - Bachelor of Science in Computer Science
 
   ##Certificates
-  -[FCA - Fortigate Operator](https://drive.google.com/file/d/17tSq40W9gE5Ie6sT-c-LLCALaab7oM_F/view?usp=sharing)
-  -[FCF - Technical Introduction to Cybersecurity](https://drive.google.com/file/d/1HyepBimTZaQ3p8wv17x4f2DACttUajKA/view?usp=sharing)
-  -[Fortinet Certified Associate in Cybersecurity](https://drive.google.com/file/d/1GcXXNbSY44hAGJIhZ5C77R9IbrYJ6Aaf/view?usp=sharing)
-  -[Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1veWlye8UYAju_irfUnXSYrhetHh8ePFN/view?usp=sharing)
-  -[FCF - Getting Started in Cyberbersecurity ](https://drive.google.com/file/d/1dMrLuDeDg1xWpuFI-D3sSNz1ifL42rhT/view?usp=sharing)
-  -[FCF - Introduction to the Threat Landscape 2.0 Self-Paced](https://drive.google.com/file/d/1Ui81swaD7LeUdSKGtqvqw5AF7Kgy8x4y/view?usp=sharing)
-  -[Cybersecurity Workshop - CTF](https://drive.google.com/file/d/1YhKp_lJmvGDjR03ztHYOJRsMIsqlNYPU/view?usp=sharing)
-  -[Introduction to Python ](https://drive.google.com/file/d/1zVg7dUZUeW72NfrKsecSvcL7rOs9F_ov/view?usp=sharing)
-  -[Business Analytics with Excel](https://drive.google.com/file/d/1-DGfUN4HZ0hGSbPN4-NuY0FRsOLESjxB/view?usp=sharing)
-  -[Data Analytics Essentials](https://drive.google.com/file/d/1WPl6RO4XbHZShaDMVN8QBkX3WBLT1t9g/view?usp=sharing)
-  -[Oracle Cloud Data Management](https://drive.google.com/file/d/1SUGBpBSkCUqJApzEbcg6QpIP1xTsyj4T/view?usp=sharing)
-  -[Oracle Cloud Infrastructure](https://drive.google.com/file/d/1duNthxYxTktj4uRUDdOy2AIEDZxZibFe/view?usp=sharing)
-  -[SQL and Relational Database](https://drive.google.com/file/d/12sVH1rTWE7xHWT6itAVK7x0aYYC4GFmw/view?usp=sharing)
+  - [FCA - Fortigate Operator](https://drive.google.com/file/d/17tSq40W9gE5Ie6sT-c-LLCALaab7oM_F/view?usp=sharing)
+  - [FCF - Technical Introduction to Cybersecurity](https://drive.google.com/file/d/1HyepBimTZaQ3p8wv17x4f2DACttUajKA/view?usp=sharing)
+  - [Fortinet Certified Associate in Cybersecurity](https://drive.google.com/file/d/1GcXXNbSY44hAGJIhZ5C77R9IbrYJ6Aaf/view?usp=sharing)
+  - [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1veWlye8UYAju_irfUnXSYrhetHh8ePFN/view?usp=sharing)
+  - [FCF - Getting Started in Cyberbersecurity ](https://drive.google.com/file/d/1dMrLuDeDg1xWpuFI-D3sSNz1ifL42rhT/view?usp=sharing)
+  - [FCF - Introduction to the Threat Landscape 2.0 Self-Paced](https://drive.google.com/file/d/1Ui81swaD7LeUdSKGtqvqw5AF7Kgy8x4y/view?usp=sharing)
+  - [Cybersecurity Workshop - CTF](https://drive.google.com/file/d/1YhKp_lJmvGDjR03ztHYOJRsMIsqlNYPU/view?usp=sharing)
+  - [Introduction to Python ](https://drive.google.com/file/d/1zVg7dUZUeW72NfrKsecSvcL7rOs9F_ov/view?usp=sharing)
+  - [Business Analytics with Excel](https://drive.google.com/file/d/1-DGfUN4HZ0hGSbPN4-NuY0FRsOLESjxB/view?usp=sharing)
+  - [Data Analytics Essentials](https://drive.google.com/file/d/1WPl6RO4XbHZShaDMVN8QBkX3WBLT1t9g/view?usp=sharing)
+  - [Oracle Cloud Data Management](https://drive.google.com/file/d/1SUGBpBSkCUqJApzEbcg6QpIP1xTsyj4T/view?usp=sharing)
+  - [Oracle Cloud Infrastructure](https://drive.google.com/file/d/1duNthxYxTktj4uRUDdOy2AIEDZxZibFe/view?usp=sharing)
+  - [SQL and Relational Database](https://drive.google.com/file/d/12sVH1rTWE7xHWT6itAVK7x0aYYC4GFmw/view?usp=sharing)
   
   ## Webinar and Seminars Attended:
   - []()

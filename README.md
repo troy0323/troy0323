@@ -12,8 +12,9 @@
 
 - ⚡ Fun fact **I am Forward-Thinking**
 
-  # 🎓Education
+  ## 🎓Education
   - Bachelor of Science in Computer Science
+  - Years Attended: 2021 - Present
 
   ##Certificates
   - [FCA - Fortigate Operator](https://drive.google.com/file/d/17tSq40W9gE5Ie6sT-c-LLCALaab7oM_F/view?usp=sharing)

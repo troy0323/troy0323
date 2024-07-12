@@ -17,7 +17,7 @@
   <a href="https://fb.com/troyxcz" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="troyxcz" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/troy-pardillo-65a0a3309/details/certifications/" target="blank">
+  <a href="https://www.linkedin.com/in/troy-pardillo-65a0a3309/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="troy-pardillo" height="30" width="40" />
   </a>
 </p>

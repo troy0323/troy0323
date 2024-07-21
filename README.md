@@ -43,6 +43,8 @@
   - [Oracle Cloud Data Management](https://drive.google.com/file/d/1SUGBpBSkCUqJApzEbcg6QpIP1xTsyj4T/view?usp=sharing)
   - [Oracle Cloud Infrastructure](https://drive.google.com/file/d/1duNthxYxTktj4uRUDdOy2AIEDZxZibFe/view?usp=sharing)
   - [SQL and Relational Database](https://drive.google.com/file/d/12sVH1rTWE7xHWT6itAVK7x0aYYC4GFmw/view?usp=sharing)
+  - [Cisco Introduction to Cybersecurity](https://drive.google.com/file/d/1oBHp6orQ-V1dt5lqbYrZfGMugK0bMm-Y/view?usp=sharing)
+  - [Cisco Introduction to Data Science](https://drive.google.com/file/d/1mv1p7gokwYmREFjZ3tFnx-zgehdG_KHq/view?usp=sharing)
   
   ## Webinar and Seminars Attended
   - [Artificial Intelligence](https://drive.google.com/file/d/1GSnoUj0maUSsfcoqqeRS6ZWE3WEZJ6aO/view?usp=sharing)

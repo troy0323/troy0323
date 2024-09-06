@@ -45,6 +45,11 @@
   - [SQL and Relational Database](https://drive.google.com/file/d/12sVH1rTWE7xHWT6itAVK7x0aYYC4GFmw/view?usp=sharing)
   - [Cisco Introduction to Cybersecurity](https://drive.google.com/file/d/1oBHp6orQ-V1dt5lqbYrZfGMugK0bMm-Y/view?usp=sharing)
   - [Cisco Introduction to Data Science](https://drive.google.com/file/d/1mv1p7gokwYmREFjZ3tFnx-zgehdG_KHq/view?usp=sharing)
+  - [Cisco Cyber Threat Management](https://drive.google.com/file/d/1ySi76sAGXiSr-t4InRGRCRt13sIG-XYT/view?usp=sharing)
+  - [Cisco Endpoint Security](https://drive.google.com/file/d/1jOmslszZ85GJRNorhBDvOtqGfZh6DaYo/view?usp=sharing)
+  - [Cisco Operating System Basics](https://drive.google.com/file/d/1CJOVd3arwh0gRdmLsCHqsofodmX5pSam/view?usp=sharing)
+  - [Cisco Computer Hardware Basics](https://drive.google.com/file/d/1VfhhMFWzm67aMkAHW16k9ajW0w587JnC/view?usp=sharing)
+    
   
   ## Webinar and Seminars Attended
   - [Artificial Intelligence](https://drive.google.com/file/d/1GSnoUj0maUSsfcoqqeRS6ZWE3WEZJ6aO/view?usp=sharing)
